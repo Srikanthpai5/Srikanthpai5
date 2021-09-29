@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 <h1 align="center">Hi 👋, I'm Srikanth Pai</h1>
 <h3 align="center">A passionate Data Engineer from Bengaluru, India.</h3>
