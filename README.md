@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Data Engineering, Big Data, Data Science, DevOps, Distributed Computing, System Design.**
 
-- 📫 How to reach me **kungfu_pi@gmail.com**
+- 📫 How to reach me **srikanthpai5@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
