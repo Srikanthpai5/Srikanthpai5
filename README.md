@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Srikanth Pai</h1>
 <h3 align="center">A passionate Data Engineer from Bengaluru, India.</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=srikanthpai5&label=Profile%20views&color=0e75b6&style=flat" alt="srikanthpai5" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srikanthpai5&label=Profile%20views&color=0e75b6&style=flat" alt="srikanthpai5" /> </p>
 
 - 🌱 I’m currently learning **Apache Spark, SnowFlake, AWS, Hadoop, Hive, HBase, DataBricks, dbt, Kafka, Confluent Kafka**
 
